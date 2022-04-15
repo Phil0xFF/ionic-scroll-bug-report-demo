@@ -1,0 +1,7 @@
+{
+  "name": "scroll-bug-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
