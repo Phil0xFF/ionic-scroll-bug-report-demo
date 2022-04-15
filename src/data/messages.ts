@@ -54,7 +54,49 @@ const messages: Message[] = [
     subject: 'Placeholder Headhots',
     date: 'Last Week',
     id: 7
-  }
+  },
+  {
+    fromName: 'Kelly Richardson',
+    subject: 'Placeholder Headhots',
+    date: 'Last Week',
+    id: 8
+  },
+  {
+    fromName: 'Kelly Richardson',
+    subject: 'Placeholder Headhots',
+    date: 'Last Week',
+    id: 9
+  },
+  {
+    fromName: 'Kelly Richardson',
+    subject: 'Placeholder Headhots',
+    date: 'Last Week',
+    id: 10
+  },
+  {
+    fromName: 'Kelly Richardson',
+    subject: 'Placeholder Headhots',
+    date: 'Last Week',
+    id: 11
+  },
+  {
+    fromName: 'Kelly Richardson',
+    subject: 'Placeholder Headhots',
+    date: 'Last Week',
+    id: 12
+  },
+  {
+    fromName: 'Kelly Richardson',
+    subject: 'Placeholder Headhots',
+    date: 'Last Week',
+    id: 13
+  },
+  {
+    fromName: 'Kelly Richardson',
+    subject: 'Placeholder Headhots',
+    date: 'Last Week',
+    id: 14
+  },
 ];
 
 export const getMessages = () => messages;
